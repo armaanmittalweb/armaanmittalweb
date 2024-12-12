@@ -3,7 +3,7 @@
 
 - 🔬 Currently researching **AI/ML applications** for early colorectal cancer detection at Thapar Institute.
 
-- 🌱 I’m diving deeper into **Machine Learning** and exploring **RESTful APIs** and **chatbot development**.
+- 🌱 I’m diving deeper into **Machine Learning** and exploring **chatbot development**.
 
 - 💬 Feel free to ask me about **web development, MERN stack, or AI/ML projects**.
 
