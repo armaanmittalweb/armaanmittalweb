@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Armaan Mittal</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hello World! 🌟 I'm Armaan Mittal</h1>
 <h3 align="center">A creative full-stack developer and AI enthusiast from India 🚀</h3>
 
 ---
